@@ -1,0 +1,26 @@
+1.Maven的安装与配置
+http://jingyan.baidu.com/article/d8072ac45d3660ec94cefd51.html
+2.默认的Maven settings.xml文档的位置
+D:\Program Files\apache-maven-3.3.9\conf
+3.Maven入门
+http://blog.csdn.net/q547550831/article/details/52219941
+4.Maven的仓库
+http://mvnrepository.com/
+5.如何修改Maven的JDK版本
+http://jingyan.baidu.com/article/84b4f565efc39e60f7da326b.html
+6.使用Maven构建Struts2项目
+http://blog.csdn.net/wangli61289/article/details/36631799
+7.运行
+http://my.oschina.net/angel243/blog/178554
+http://blog.csdn.net/kuaisuzhuceh/article/details/44827811
+8.web项目
+http://my.oschina.net/China2012/blog/191404
+
+
+9.Maven项目目录结构
+http://www.cnblogs.com/haippy/archive/2012/07/05/2577233.html
+http://blog.csdn.net/edward0830ly/article/details/8748986
+
+10. Maven创建Java 工程，生成jar包，使用mvn install命令，mvn compile命令，mvn test命令
+运行jar包的命令
+java -cp target\my-app-1.0-SNAPSHOT.jar cn.luxh.app.App
